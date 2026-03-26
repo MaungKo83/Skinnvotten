@@ -26,17 +26,4 @@ Egnet kunst/bilder i images/
 Lydklipp i audio
 
 
-📂 Mappestruktur
-├── images/
-│   ├── 1.png
-│   ├── 2.png
-│   └── ...
-│
-├── audio/
-│   ├── 1.mp3
-│   ├── 2.mp3
-│   └── ...
-│
-├── story.html        # Eksportert Twine-fil
-├── README.md
-└── LICENSE           # (valgfritt)
+<img width="825" height="586" alt="image" src="https://github.com/user-attachments/assets/fc2a779e-18e3-49b4-a0fb-c9917d1c62d4" />
