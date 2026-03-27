@@ -25,7 +25,8 @@ Responsivt design som fungerer på både PC og mobil
 
 🗺️ Story Map
 Nedenfor ser du hele historieflyten slik den er bygget i Twine:
-Designer.png
+<img width="1536" height="1024" alt="story map" src="https://github.com/user-attachments/assets/6f0d604b-e511-400a-a00e-ff4a3c385eec" />
+
 
 📖 Om prosjektet
 Eventyret følger en mann som mister votten sin i skogen. Ett etter ett finner dyrene votten og kryper inn i den for å holde varmen.
