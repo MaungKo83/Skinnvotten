@@ -1,0 +1,537 @@
+:: StoryTitle
+20260319 _ MK _Eventyret om Skinnvotten
+
+
+:: StoryData
+{
+  "ifid": "4C3C8D3E-2F6A-4C9B-9BFA-STARTSKINNVOTTEN-2026",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Alle sover {"position":"1000,500","size":"100,100"}
+Bjørnen presset seg inn i votten sammen med de andre. Dyrene klemte seg sammen så alle fikk plass. Nå var det syv dyr inne i votten og det var veldig trangt.
+
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+
+<audio id="sound1" src="audio/10.mp3"></audio>
+
+<img src="images/10.png" alt="Bilde">
+
+[[Hunden nærmer seg->Voff]]
+
+
+:: Bjørnen {"position":"1200,500","size":"100,100"}
+Ikke lenge etter kom en bjørn labbende bort til votten. Bjørnen spurte: «Hvem er det som bor her, da?» Dyrene i votten svarte: «Vi er Pilemus Silkehår, Friskefrosk Langelår, Haremann Hoppsadans, Revemor Silkesvans, Ulven Aldrimett og Villsvinet Trynebrett. Hvem er du?».  
+
+«Jeg er Bamsefar Labbdiger. Kan jeg få sove her i natt?» spurte han. «Vi kan dessverre ikke la deg komme inn. Det er ikke mer plass», svarte dyrene. «Jo da», sa bjørnen, «bare trykk dere sammen, så går det nok»
+
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+<audio id="sound1" src="audio/9.mp3"></audio>
+
+<img src="images/9.png" alt="Bilde">
+
+
+
+[[Alle sover->Alle sover]]
+
+
+:: Dropped Mitten {"position":"600,0","size":"100,100"}
+Mens mannen gikk, mistet han den ene votten sin i snøen. Han merket ikke at han hadde mistet den, og gikk videre. 
+
+
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+
+<audio id="sound1" src="audio/2.mp3"></audio>
+
+<img src="images/2.png" alt="Bilde">
+
+
+[[Musen finner votten->Musen finner votten]]
+
+
+
+
+
+
+
+:: End {"position":"200,300","size":"100,100"}
+<!-- CSS styling -->
+<style>
+    .container {
+        max-width: 600px;
+        margin: 0 auto;
+        text-align: center;
+        color: white;
+        font-family: Arial, sans-serif;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 2em;
+        margin-bottom: 10px;
+    }
+
+    .moral-text {
+        text-align: left;
+        font-size: 1.1em;
+        line-height: 1.6em;
+        background: rgba(0, 0, 0, 0.4);
+        padding: 15px;
+        border-radius: 10px;
+        margin-top: 15px;
+    }
+
+    img {
+        width: 100%;
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+
+    button {
+        background-color: #2a72ff;
+        color: white;
+        border: none;
+        padding: 10px 18px;
+        margin-bottom: 15px;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 1em;
+    }
+
+    button:hover {
+        background-color: #1b52b3;
+    }
+</style>
+
+<div class="container">
+
+    <h1>Snipp snapp snute — eventyret er ute</h1>
+
+    <button onclick="document.getElementById('sound1').play()">
+        Spill av lyd
+    </button>
+    <audio id="sound1" src="audio/14.mp3"></audio>
+
+    <img src="images/14.png" alt="Bilde">
+
+    <h1>Moral for barn</h1>
+
+    <div class="moral-text">
+        Votten lærer oss at det er fint å være snill og dele med andre.  
+        Når vi hjelper hverandre, slipper andre inn, og viser omsorg, kan alle føle seg trygge og glade – selv når det er trangt om plassen.  
+        Den viser også at når vi samarbeider, kan vi få til mye mer enn vi klarer alene.  
+        Til slutt minner eventyret oss om at det er viktig å ta vare på tingene våre, og at alt vi låner eller bruker må gis tilbake.
+    </div>
+
+</div>
+
+
+:: Frosk {"position":"1000,0","size":"100,100"}
+Det gikk ikke lang tid før en liten frosk kom hoppende bort til votten. «Hvem er det som bor her, da?» spurte frosken. Musen svarte: «Jeg er Pilemus Silkehår. Hvem er du?».  
+«Jeg er Friskefrosk Langelår. Kan jeg få sove her i natt?» spurte frosken.«Ja da, bare kom inn», sa musen. 
+
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+
+<audio id="sound1" src="audio/4.mp3"></audio>
+<img src="images/4.png" alt="Bilde">
+
+
+[[Haren kommer->Hare]]
+
+
+:: Hare {"position":"900,200","size":"100,100"}
+Litt senere kom det en hare sprettende. Haren stanset foran votten og spurte: «Hvem er det som bor her, da?» Dyrene i votten svarte: «Vi er Pilemus Silkehår og Friskefrosk Langelår. Hvem er du?» 
+
+«Jeg er Haremann Hoppsadans. Kan jeg få sove her i natt?» spurte haren. Ja da, bare kom inn, svarte dyrene.
+
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+
+<audio id="sound1" src="audio/5.mp3"></audio>
+<img src="images/5.png" alt="Bilde">
+
+[[Reven kommer->Rev]]
+
+
+:: Hunden {"position":"600,500","size":"100,100"}
+Hunden fikk øye på votten som lå i snøen. Votten bevegde seg i snøen! Hunden bjeffet mot den: «Voff, voff, voff!» 
+
+Dyrene i votten ble vekket av den høye bjeffingen, og kom seg ut av votten før de raskt forsvant ut i skogen.
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+
+<audio id="sound1" src="audio/12.mp3"></audio>
+
+<img src="images/12.png" alt="Bilde">
+
+[[Mannen finner votten igjen->Mannen]]
+
+
+
+:: Mannen {"position":"400,400","size":"100,100"}
+Mannen plukket opp votten. Da han tok den på seg igjen, 
+ kunne han ikke skjønne at den fortsatt var så varm etter å ha ligget i snøen så lenge.
+
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+
+<audio id="sound1" src="audio/13.mp3"></audio>
+
+<img src="images/13.png" alt="Bilde">
+
+
+ [[Slutten->End]]
+
+
+:: Musen finner votten {"position":"800,0","size":"100,100"}
+Etter en liten stund kom en mus pilende. Musen smatt inn i votten og tenkte. Dette skal være huset mitt i natt.
+
+
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+<audio id="sound1" src="audio/3.mp3"></audio>
+
+<img src="images/3.png" alt="Bilde">
+
+
+
+[[Frosken kommer->Frosk]]
+
+
+:: Rev {"position":"900,400","size":"100,100"}
+En rev kom luskende forbi. Hun stoppet ved votten og spurte: «Hvem er det som bor her, da?» Dyrene i votten svarte: «Vi er Pilemus Silkehår, Friskefrosk Langelår og Haremann Hoppsadans. Hvem er du?».
+-  «Jeg er Revemor Silkesvans. Kan jeg få sove her i natt?» spurte hun. «Ja da, bare kom inn» 
+
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+<audio id="sound1" src="audio/6.mp3"></audio>
+
+<img src="images/6.png" alt="Bilde">
+
+[[Ulven kommer->Ulven]]
+
+
+:: Start {"position":"400,100","size":"100,100"}
+Det var en gang en gammel mann.
+En kald vinterdag gikk en gammel mann på tur i skogen med hunden sin.
+<button onclick="document.getElementById('sound1').play()">Spill av lyd</button>
+<audio id="sound1" src="audio/1.mp3"></audio>
+<img src="images/1.png" alt="Bilde">
+
+
+
+[[Dropped Mitte->Dropped Mitten]]
+
+
+
+
+:: Ulven {"position":"1100,300","size":"100,100"}
+De fire dyrene i votten hørte plutselig at noen snuste på votten. De tittet ut og så en ulv. Ulven spurte: «Hvem er det som bor her, da?» Dyrene i votten svarte: «Vi er Pilemus Silkehår, Friskefrosk Langelår, Haremann Hoppsadans og Revemor Silkesvans. Hvem er du?». 
+«Jeg er Ulven Aldrimett. Kan jeg få sove her i natt?» spurte han. «Ja da, bare kom inn», svarte dyrene.
+
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+
+<audio id="sound1" src="audio/7.mp3"></audio>
+<img src="images/7.png" alt="Bilde">
+
+
+[[Villsvinet kommer->Villsvinet]]
+
+
+:: Villsvinet {"position":"1300,300","size":"100,100"}
+Nå var det fem dyr i votten. Et villsvin gikk bort til votten, gryntet og spurte: «Hvem er det som bor her, da?» Dyrene i votten svarte: «Vi er Pilemus Silkehår, Friskefrosk Langelår, Haremann Hoppsadans, Revemor Silkesvans og Ulven Aldrimett. Hvem er du?». 
+
+«Jeg er Villsvinet Trynebrett. Kan jeg få sove her i natt?» spurte han. «Det begynner å bli veldig trangt her nå …» svarte dyrene. «Nei da, jeg skal gjøre meg så liten jeg kan», sa villsvinet og krabbet inn i votten.
+
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+
+<audio id="sound1" src="audio/8.mp3"></audio>
+
+<img src="images/8.png" alt="Bilde">
+
+[[Bjørnen kommer->Bjørnen]]
+
+
+:: Voff {"position":"775,550","size":"100,100"}
+På den andre siden av skogen kom den gamle mannen hjem. Da oppdaget han at han hadde mistet den ene votten sin.
+Han bestemte seg for å gå tilbake for å lete etter den. Hunden løp i forveien.
+
+
+<button onclick="document.getElementById('sound1').play()">
+Spill av lyd
+</button>
+<audio id="sound1" src="audio/11.mp3"></audio>
+
+<img src="images/11.png" alt="Bilde">
+
+ [[Voff, voff, voff->Hunden]]
+ 
+
+
+
+:: StoryScript [script]
+// ================================
+// SAFE JS for Harlowe navigation
+// ================================
+setInterval(() => {
+    const sidebar = document.querySelector("tw-sidebar");
+    if (!sidebar) return;
+
+    // BACK ARROW always safe
+    const back = sidebar.querySelector('tw-icon[alt="back"]');
+    if (back) {
+        back.style.cursor = "pointer";
+        back.onclick = () => {
+            try { Engine.goBack(); } catch(e) { console.warn("Back failed", e); }
+        };
+    }
+
+    // FORWARD ARROW — only safe if a forward link exists
+    const forward = sidebar.querySelector('tw-icon[alt="forward"]');
+    if (forward) {
+        forward.style.cursor = "pointer";
+        forward.onclick = () => {
+            // In Harlowe, do not force goForward unless a previous goBack exists
+            const hist = Engine.history;
+            const last = hist ? hist[hist.length-1] : null;
+            if (last && last.forward) {
+                try { Engine.goForward(); } catch(e) { console.warn("Forward failed", e); }
+            } else {
+                console.warn("No forward available — cannot navigate safely.");
+            }
+        };
+    }
+}, 100);
+
+
+
+
+// Run once when the story first loads
+function addFooter() {
+    if (!document.getElementById("footer")) {
+        const footer = document.createElement("div");
+        footer.id = "footer";
+        footer.innerHTML =
+            "© Opphavsrett<br>© 2026 Maung Ko<br>Laget for læring og demonstrasjon av twine.";
+        document.querySelector("tw-story").appendChild(footer);
+    }
+}
+
+// Add footer on start
+setTimeout(addFooter, 0);
+
+// Add footer every time a passage changes
+document.addEventListener("transitionend", addFooter);
+
+
+
+:: StoryStylesheet [stylesheet]
+/* ================================
+   FONT
+================================ */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+
+/* ================================
+   BACKGROUND
+================================ */
+tw-story {
+  position: relative;
+  min-height: 100vh;
+  background-image: url("images/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+
+tw-story {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll;
+}
+
+
+
+/* dark overlay */
+tw-story::before {
+  content:"";
+  position:fixed;
+  inset:0;
+  background:rgba(0,0,0,0.65);
+  z-index:-1;
+}
+
+
+/* ================================
+   CENTER STORY BOX
+================================ */
+tw-passage {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px;
+  background: rgba(0,0,0,0.65);
+  border-radius: 15px;
+  box-shadow: 0 0 25px rgba(0,0,0,0.8);
+  line-height: 1.6;
+  font-size: 1.1em;
+}
+
+
+/* ================================
+   HEADINGS
+================================ */
+h1 {
+  text-align:center;
+  font-size:2.2em;
+  color:#4fc3f7;
+}
+
+h2 {
+  color:#81d4fa;
+}
+
+h3 {
+  color:#b3e5fc;
+}
+
+
+/* ================================
+   LINKS (CHOICES)
+================================ */
+tw-link {
+ text-align: center !important;
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  background:rgba(79,195,247,0.15);
+  border-left:4px solid #4fc3f7;
+  border-radius:8px;
+  color:white;
+  text-decoration:none;
+  transition:0.2s;
+}
+
+
+
+tw-link:hover {
+  background:rgba(79,195,247,0.35);
+  transform:translateX(5px);
+}
+
+
+/* ================================
+   BUTTON STYLE
+================================ */
+button {
+  background:#4fc3f7;
+  border:none;
+  padding:10px 18px;
+  border-radius:8px;
+  color:white;
+  font-weight:600;
+  cursor:pointer;
+}
+
+button:hover {
+  background:#29b6f6;
+}
+
+
+/* ================================
+   IMAGES IN STORY
+================================ */
+tw-passage img {
+  width:100%;
+  border-radius:10px;
+  margin:15px 0;
+  box-shadow:0 0 10px black;
+}
+
+
+/* ================================
+   SIDEBAR
+================================ */
+tw-sidebar {
+  background: rgba(0,0,0,0.5);
+  border-radius:10px;
+  padding:10px;
+}
+
+/* arrows */
+tw-sidebar tw-icon {
+  font-size:2em;
+  filter: drop-shadow(0 0 5px black);
+}
+
+
+/* ================================
+   INVENTORY BOX (optional)
+================================ */
+.inventory {
+  background:rgba(255,255,255,0.1);
+  padding:10px;
+  border-radius:10px;
+  margin-top:15px;
+}
+
+
+/* ================================
+   MOBILE
+================================ */
+@media (max-width: 600px) {
+  tw-passage {
+    margin:10px;
+    padding:20px;
+  }
+
+  h1 {
+    font-size:1.6em;
+  }
+}
+
+
+
+#footer {
+    position: fixed;
+    bottom: 5px; /* moves footer down */
+    left: 50%;
+    transform: translateX(-50%);
+    
+    background: rgba(0, 0, 0, 0.50); /* softer transparency */
+    color: #ffffff;
+    
+    padding: 4px 12px;    /* smaller footer */
+    font-size: 12px;      /* smaller text */
+    line-height: 1.3em;
+    
+    border-radius: 6px;
+    text-align: center;
+    
+    z-index: 99999;
+    pointer-events: none; /* IMPORTANT: footer no longer blocks clicks */
+}
