@@ -52,3 +52,8 @@ GitHub Pages – publisering av demo
 
 
 <img width="825" height="586" alt="image" src="https://github.com/user-attachments/assets/fc2a779e-18e3-49b4-a0fb-c9917d1c62d4" />
+
+
+© Opphavsrett
+© 2026 Maung Ko
+laget for læring og demonstrasjon av twine
