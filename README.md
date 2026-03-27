@@ -2,6 +2,14 @@
 🌲 Eventyret om Skinnvotten
 Velkommen til Eventyret om Skinnvotten – en interaktiv fortelling laget i Twine (Harlowe).
 Prosjektet visualiserer det klassiske norske barneeventyret gjennom tekst, bilder, lyd og moderne webteknologi.
+Jeg laget en interaktiv historie i Twine som heter Skinnvotten – Den gamle mannens vott. Historien viser hvordan dyr finner en vott i snøen og går inn én etter én. Jeg la til bilder og lyd for å gjøre historien mer interaktiv.
+
+
+🌟 Moral for barn
+Votten lærer oss at det er fint å være snill og dele med andre.
+Når vi hjelper hverandre, slipper andre inn, og viser omsorg, kan alle føle seg trygge og glade – selv når det er trangt om plassen. Den viser også at når vi samarbeider, kan vi få til mye mer enn vi klarer alene. Til slutt minner eventyret oss om at det er viktig å ta vare på tingene våre, og at alt vi låner eller bruker må gis tilbake.
+
+
 👉 Live demo:
 https://maungko83.github.io/Skinnvotten/
 
